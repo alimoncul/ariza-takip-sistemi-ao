@@ -4,7 +4,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/alimoncul/ariza-takip-sistemi-ao.svg)](https://github.com/alimoncul/ariza-takip-sistemi-ao/issues)
 [![GitHub stars](https://img.shields.io/github/stars/alimoncul/ariza-takip-sistemi-ao.svg)](https://github.com/alimoncul/ariza-takip-sistemi-ao/stargazers)
 
-Staj süresince Darıca Belediye'sine oluşturduğum Arıza Takip Sistemi. ASP.NET ile oluşturulmuştur. Veritabanında PostgreSQL kullanılmıştır.
+Staj süresince Darıca Belediye'sine oluşturduğum Arıza Takip Sistemi. ASP.NET ile oluşturulmuştur. Veritabanında PostgreSQL kullanılmıştır. Web üzerinden çalışan bu sistem, mobil platforma uygun hale getirilebilir. CSS'de bazı sıkıntılar olabilir, açık kaynaklı olmasının ana sebebi sıkıntıları toplumun düzeltme imkanının olması. Sistem çok hızlı çalışıyor, PostgreSQL ile çalışması bir artı.
 
   
 ### Veritabanı Tablosu
