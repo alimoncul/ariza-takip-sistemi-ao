@@ -1,0 +1,43 @@
+﻿.girisBilgieri
+{
+    font-family:monospace;
+    font-size:24px;
+}
+.sagUst 
+{
+    font-family: monospace;
+    font-size: 24px;
+    position: absolute;
+    top: 11px;
+    right: 11px;
+}
+.grid
+{
+    width: 100%;
+    border: solid 2px;
+    border-color:white;
+    margin: 5px 0px 10px 0px;
+    font-size:20px;
+    text-align:center;
+}
+.grid td 
+{
+    border: solid 2px;
+    padding: 2px;
+}
+.grid th {
+    border: solid 2px;
+    padding: 4px 2px;
+}
+.arizaBildirme
+{
+    color:red;
+}
+.cozumleButon 
+{
+    border-radius: 4px;
+    height: 50px;
+    width: 200px;
+    font-size: 27px;
+    background-color: lightgoldenrodyellow;
+}

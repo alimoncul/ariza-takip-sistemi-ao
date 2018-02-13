@@ -1,0 +1,13 @@
+C:\Users\CZPZ\Desktop\Staj\ariza-takip\ariza-takip\bin\ariza-takip.dll.config
+C:\Users\CZPZ\Desktop\Staj\ariza-takip\ariza-takip\bin\ariza-takip.dll
+C:\Users\CZPZ\Desktop\Staj\ariza-takip\ariza-takip\bin\ariza-takip.pdb
+C:\Users\CZPZ\Desktop\Staj\ariza-takip\ariza-takip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CZPZ\Desktop\Staj\ariza-takip\ariza-takip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CZPZ\Desktop\Staj\ariza-takip\ariza-takip\obj\Debug\ariza-takip.csprojResolveAssemblyReference.cache
+C:\Users\CZPZ\Desktop\Staj\ariza-takip\ariza-takip\obj\Debug\ariza-takip.csproj.CoreCompileInputs.cache
+C:\Users\CZPZ\Desktop\Staj\ariza-takip\ariza-takip\obj\Debug\ariza-takip.dll
+C:\Users\CZPZ\Desktop\Staj\ariza-takip\ariza-takip\obj\Debug\ariza-takip.pdb
+C:\Users\CZPZ\Desktop\Staj\ariza-takip\ariza-takip\bin\Npgsql.dll
+C:\Users\CZPZ\Desktop\Staj\ariza-takip\ariza-takip\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\CZPZ\Desktop\Staj\ariza-takip\ariza-takip\bin\Npgsql.xml
+C:\Users\CZPZ\Desktop\Staj\ariza-takip\ariza-takip\bin\System.Threading.Tasks.Extensions.xml

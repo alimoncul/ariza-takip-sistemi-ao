@@ -1,0 +1,8 @@
+C:\Users\CZPZ\Desktop\Staj\ariza-takip\ariza-takip\bin\ariza-takip.dll.config
+C:\Users\CZPZ\Desktop\Staj\ariza-takip\ariza-takip\bin\ariza-takip.dll
+C:\Users\CZPZ\Desktop\Staj\ariza-takip\ariza-takip\bin\ariza-takip.pdb
+C:\Users\CZPZ\Desktop\Staj\ariza-takip\ariza-takip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CZPZ\Desktop\Staj\ariza-takip\ariza-takip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CZPZ\Desktop\Staj\ariza-takip\ariza-takip\obj\Release\ariza-takip.csproj.CoreCompileInputs.cache
+C:\Users\CZPZ\Desktop\Staj\ariza-takip\ariza-takip\obj\Release\ariza-takip.dll
+C:\Users\CZPZ\Desktop\Staj\ariza-takip\ariza-takip\obj\Release\ariza-takip.pdb

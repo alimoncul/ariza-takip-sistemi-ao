@@ -1,0 +1,42 @@
+﻿.girisTablo {
+    height: 28px;
+    width: 200px;
+    font-size: 17px;
+    border: 2px solid #ccc;
+    padding-left:5px;
+    display:inline-block;
+}
+.arizaTablo {
+    height: 28px;
+    width: 270px;
+    font-size: 17px;
+    border: 2px solid #ccc;
+    padding-left: 5px;
+    display: inline-block;
+}
+.arizaTip 
+{
+    font-size: 17px;
+    border: 2px solid #ccc;
+    padding-left: 5px;
+    display: inline-block;
+}
+.arizaDropdown 
+{
+    height: 35px;
+    width: 279px;
+    font-size: 17px;
+    border: 2px solid #ccc;
+    padding-left: 5px;
+    display: inline-block;
+}
+.yaziTipDegistir
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.validationTip
+{
+    font-family:Arial, Helvetica, sans-serif;
+    color:red;
+    font-size:15px;
+}
